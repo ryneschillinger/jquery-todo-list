@@ -13,11 +13,13 @@ $(document).ready(function() {
 		$("#input-text").val("");
 	});
 
+
 	// Delete a task
 
 	$(document).on("click", ".delete", function() {
 		$(this).parent().remove();
 	});
+
 
 	// Crossing off a task
 
