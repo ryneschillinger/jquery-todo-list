@@ -34,7 +34,7 @@ h2 {
 	margin-left: 12px;
 }
 
-h4 {
+h4, li {
 	display: inline-block;
 	float: left;
 	margin: 0 10px;
