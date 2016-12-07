@@ -105,8 +105,9 @@ i {
 .task-row {
 	display: block;
 	width: 100%;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #ccdae9;
 }
 
 .task-row input, h4, button {
